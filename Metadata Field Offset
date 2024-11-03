@@ -1,0 +1,15 @@
+Metadata Field Offsets
+
+Field                Size (bytes)    Offset (bytes)
+---------------------------------------------------
+st_dev               8               0
+st_ino               8               8
+st_mode              4               16
+st_nlink             4               20
+st_uid               4               24
+st_gid               4               28
+st_rdev              8               32
+st_size              8               40
+st_atime             8               48
+st_mtime             8               56
+st_ctime             8               64
